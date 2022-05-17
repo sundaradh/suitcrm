@@ -1,0 +1,32 @@
+Fri May  6 08:48:52 2022 [14920][1][FATAL] User update error: Temp User is not retrieved at ID 1, boolean given
+Fri May  6 08:48:52 2022 [14920][1][FATAL] Email address save error
+Fri May  6 08:49:00 2022 [14920][1][SECURITY] Setting logger_file_name to ''.
+Fri May  6 08:49:00 2022 [14920][1][SECURITY] Invalid ext  logger_file_ext : ''.
+Fri May  6 08:49:00 2022 [14920][1][SECURITY] Setting logger_file_ext to ''.
+Fri May  6 08:49:00 2022 [14920][1][SECURITY] Log file extension can't be blank.
+Fri May  6 08:49:00 2022 [14920][1][SECURITY] Log file extension can't be blank.
+Fri May  6 08:49:00 2022 [14920][1][SECURITY] Setting logger_file_name to ''.
+Fri May  6 08:49:00 2022 [14920][1][SECURITY] Invalid ext  logger_file_ext : ''.
+Fri May  6 08:49:00 2022 [14920][1][SECURITY] Setting logger_file_ext to ''.
+Fri May  6 08:49:00 2022 [14920][1][SECURITY] Log file extension can't be blank.
+Fri May  6 08:49:00 2022 [14920][1][SECURITY] Log file extension can't be blank.
+Fri May  6 08:49:12 2022 [14920][-none-][FATAL] SECURITY: User authentication for abcsundaradhikari123@gmail.com failed
+Fri May  6 08:49:12 2022 [14920][-none-][FATAL] FAILED LOGIN:attempts[1], ip[::1], username[abcsundaradhikari123@gmail.com]
+Fri May  6 08:53:07 2022 [14920][-none-][FATAL] SECURITY: User authentication for admin failed
+Fri May  6 08:53:07 2022 [14920][-none-][FATAL] FAILED LOGIN:attempts[1], ip[::1], username[admin]
+Fri May  6 09:30:05 2022 [14920][1][FATAL] log call at: modules/EmailMan/tpls/config.tpl:465 - styleChecked is not set
+Sun May  8 09:04:27 2022 [40444][1][FATAL] log call at: modules/EmailMan/tpls/config.tpl:465 - styleChecked is not set
+Sun May  8 09:09:54 2022 [40444][1][FATAL] SugarPHPMailer encountered an error: The following From address failed: do_not_reply@example.com : MAIL FROM command failed,Authentication Required. Learn more at
+ https://support.google.com/mail/?p=WantAuthError s186-20020a625ec3000000b0050dc76281a2sm6174573pfb.124 - gsmtp
+,530,5.7.0
+Sun May  8 09:09:54 2022 [40444][1][FATAL] SugarPHPMailer encountered an error: The following From address failed: do_not_reply@example.com : MAIL FROM command failed,Authentication Required. Learn more at
+ https://support.google.com/mail/?p=WantAuthError s186-20020a625ec3000000b0050dc76281a2sm6174573pfb.124 - gsmtp
+,530,5.7.0SMTP server error: MAIL FROM command failed Detail: Authentication Required. Learn more at
+ https://support.google.com/mail/?p=WantAuthError s186-20020a625ec3000000b0050dc76281a2sm6174573pfb.124 - gsmtp
+ SMTP code: 530 Additional SMTP info: 5.7.0
+Sun May  8 09:09:54 2022 [40444][1][FATAL] SugarPHPMailer encountered an error: The following From address failed: do_not_reply@example.com : MAIL FROM command failed,Authentication Required. Learn more at
+ https://support.google.com/mail/?p=WantAuthError s186-20020a625ec3000000b0050dc76281a2sm6174573pfb.124 - gsmtp
+,530,5.7.0SMTP server error: MAIL FROM command failed Detail: Authentication Required. Learn more at
+ https://support.google.com/mail/?p=WantAuthError s186-20020a625ec3000000b0050dc76281a2sm6174573pfb.124 - gsmtp
+ SMTP code: 530 Additional SMTP info: 5.7.0
+Sun May  8 13:15:37 2022 [5660][1][FATAL] Email address save error

@@ -1,0 +1,614 @@
+
+2022-05-05 10:51:43...installerHook: Info: custom/install/install_hooks.php not present, no custom hooks to execute
+2022-05-05 10:52:53...Begin System Check Process *************
+2022-05-05 10:52:53...XML Parsing Support Found
+2022-05-05 10:52:53...JSON Parsing Support Found
+2022-05-05 10:52:53...MBString Support Found
+2022-05-05 10:52:53...ZIP Support Found
+2022-05-05 10:52:53.../custom directory and subdirectory check passed
+2022-05-05 10:52:53...cache directory and subdirectory check passed
+2022-05-05 10:52:54.../module  directory and subdirectory check passed
+2022-05-05 10:52:54.../upload directory check passed
+2022-05-05 10:52:54.../zip check passed
+2022-05-05 10:52:54...PCRE version check passed
+2022-05-05 10:52:54...installerHook: Info: custom/install/install_hooks.php not present, no custom hooks to execute
+2022-05-05 10:52:54...php.ini location found. C:\xampp\php\php.ini
+2022-05-05 10:52:54...Outputting HTML for System check
+2022-05-05 10:52:54...No Errors were found *************
+2022-05-05 10:52:56...installerHook: Info: custom/install/install_hooks.php not present, no custom hooks to execute
+2022-05-05 10:53:23...installerHook: Info: custom/install/install_hooks.php not present, no custom hooks to execute
+2022-05-05 10:54:26...Begin DB Check Process *************
+2022-05-05 10:54:26...testing with mysql:mysqli
+2022-05-05 10:54:26...Basic form info is valid, continuing Process.
+2022-05-05 10:54:26...Testing user account...
+2022-05-05 10:54:26...Connection made using  host: localhost, usr: root
+2022-05-05 10:54:26...SUCCESS:: no errors detected!
+2022-05-05 10:54:26...End DB Check Process *************
+2022-05-05 10:54:26...installerHook: Info: custom/install/install_hooks.php not present, no custom hooks to execute
+2022-05-05 10:55:07...installerHook: Info: custom/install/install_hooks.php not present, no custom hooks to execute
+2022-05-05 10:55:40...Begin DB Check Process *************
+2022-05-05 10:55:40...testing with mysql:mysqli
+2022-05-05 10:55:40...Basic form info is valid, continuing Process.
+2022-05-05 10:55:40...Testing user account...
+2022-05-05 10:55:57...Begin DB Check Process *************
+2022-05-05 10:55:57...testing with mysql:mysqli
+2022-05-05 10:55:57...Basic form info is valid, continuing Process.
+2022-05-05 10:55:57...Testing user account...
+2022-05-05 11:05:52...installerHook: Info: custom/install/install_hooks.php not present, no custom hooks to execute
+2022-05-05 11:05:59...Begin System Check Process *************
+2022-05-05 11:05:59...XML Parsing Support Found
+2022-05-05 11:05:59...JSON Parsing Support Found
+2022-05-05 11:05:59...MBString Support Found
+2022-05-05 11:05:59...ZIP Support Found
+2022-05-05 11:05:59.../custom directory and subdirectory check passed
+2022-05-05 11:05:59...cache directory and subdirectory check passed
+2022-05-05 11:06:01.../module  directory and subdirectory check passed
+2022-05-05 11:06:01.../upload directory check passed
+2022-05-05 11:06:01.../zip check passed
+2022-05-05 11:06:01...PCRE version check passed
+2022-05-05 11:06:01...installerHook: Info: custom/install/install_hooks.php not present, no custom hooks to execute
+2022-05-05 11:06:01...php.ini location found. C:\xampp\php\php.ini
+2022-05-05 11:06:01...Outputting HTML for System check
+2022-05-05 11:06:01...No Errors were found *************
+2022-05-05 11:06:01...installerHook: Info: custom/install/install_hooks.php not present, no custom hooks to execute
+2022-05-05 11:06:17...installerHook: Info: custom/install/install_hooks.php not present, no custom hooks to execute
+2022-05-05 11:06:22...Begin DB Check Process *************
+2022-05-05 11:06:22...testing with mysql:mysqli
+2022-05-05 11:06:22...Basic form info is valid, continuing Process.
+2022-05-05 11:06:22...Testing user account...
+2022-05-05 11:06:37...Begin DB Check Process *************
+2022-05-05 11:06:37...testing with mysql:mysqli
+2022-05-05 11:06:37...Basic form info is valid, continuing Process.
+2022-05-05 11:06:37...Testing user account...
+2022-05-05 11:07:20...Begin DB Check Process *************
+2022-05-05 11:07:20...testing with mysql:mysqli
+2022-05-05 11:07:20...Basic form info is valid, continuing Process.
+2022-05-05 11:07:20...Testing user account...
+2022-05-05 11:07:20...Connection made using  host: localhost, usr: root
+2022-05-05 11:07:20...SUCCESS:: no errors detected!
+2022-05-05 11:07:20...End DB Check Process *************
+2022-05-05 11:07:20...installerHook: Info: custom/install/install_hooks.php not present, no custom hooks to execute
+2022-05-05 11:11:48...installerHook: Info: custom/install/install_hooks.php not present, no custom hooks to execute
+2022-05-05 11:12:13...Begin System Check Process *************
+2022-05-05 11:12:13...XML Parsing Support Found
+2022-05-05 11:12:13...JSON Parsing Support Found
+2022-05-05 11:12:13...MBString Support Found
+2022-05-05 11:12:13...ZIP Support Found
+2022-05-05 11:12:13.../custom directory and subdirectory check passed
+2022-05-05 11:12:13...cache directory and subdirectory check passed
+2022-05-05 11:12:14.../module  directory and subdirectory check passed
+2022-05-05 11:12:14.../upload directory check passed
+2022-05-05 11:12:14.../zip check passed
+2022-05-05 11:12:14...PCRE version check passed
+2022-05-05 11:12:14...installerHook: Info: custom/install/install_hooks.php not present, no custom hooks to execute
+2022-05-05 11:12:14...php.ini location found. C:\xampp\php\php.ini
+2022-05-05 11:12:14...Outputting HTML for System check
+2022-05-05 11:12:14...No Errors were found *************
+2022-05-05 11:12:14...installerHook: Info: custom/install/install_hooks.php not present, no custom hooks to execute
+2022-05-05 11:12:17...installerHook: Info: custom/install/install_hooks.php not present, no custom hooks to execute
+2022-05-05 11:12:36...Begin DB Check Process *************
+2022-05-05 11:12:36...testing with mysql:mysqli
+2022-05-05 11:12:36...Basic form info is valid, continuing Process.
+2022-05-05 11:12:36...Testing user account...
+2022-05-05 11:12:36...Connection made using  host: localhost, usr: root
+2022-05-05 11:12:36...SUCCESS:: no errors detected!
+2022-05-05 11:12:36...End DB Check Process *************
+2022-05-05 11:12:36...installerHook: Info: custom/install/install_hooks.php not present, no custom hooks to execute
+2022-05-05 14:59:17...installerHook: Info: custom/install/install_hooks.php not present, no custom hooks to execute
+2022-05-05 14:59:37...Begin System Check Process *************
+2022-05-05 14:59:38...XML Parsing Support Found
+2022-05-05 14:59:38...JSON Parsing Support Found
+2022-05-05 14:59:38...MBString Support Found
+2022-05-05 14:59:38...ZIP Support Found
+2022-05-05 14:59:38.../custom directory and subdirectory check passed
+2022-05-05 14:59:38...cache directory and subdirectory check passed
+2022-05-05 14:59:42.../module  directory and subdirectory check passed
+2022-05-05 14:59:42.../upload directory check passed
+2022-05-05 14:59:42.../zip check passed
+2022-05-05 14:59:42...PCRE version check passed
+2022-05-05 14:59:42...installerHook: Info: custom/install/install_hooks.php not present, no custom hooks to execute
+2022-05-05 14:59:42...php.ini location found. C:\xampp\php\php.ini
+2022-05-05 14:59:42...Outputting HTML for System check
+2022-05-05 14:59:42...No Errors were found *************
+2022-05-05 14:59:43...installerHook: Info: custom/install/install_hooks.php not present, no custom hooks to execute
+2022-05-05 14:59:47...installerHook: Info: custom/install/install_hooks.php not present, no custom hooks to execute
+2022-05-05 14:59:53...Begin DB Check Process *************
+2022-05-05 14:59:53...testing with mysql:mysqli
+2022-05-05 14:59:53...Basic form info is valid, continuing Process.
+2022-05-05 14:59:53...Testing user account...
+2022-05-05 14:59:53...Connection made using  host: localhost, usr: root
+2022-05-05 14:59:53...SUCCESS:: no errors detected!
+2022-05-05 14:59:53...End DB Check Process *************
+2022-05-05 14:59:54...installerHook: Info: custom/install/install_hooks.php not present, no custom hooks to execute
+2022-05-05 15:02:59...installerHook: Info: custom/install/install_hooks.php not present, no custom hooks to execute
+2022-05-05 15:03:04...installerHook: Info: custom/install/install_hooks.php not present, no custom hooks to execute
+2022-05-05 15:30:10...installerHook: Info: custom/install/install_hooks.php not present, no custom hooks to execute
+2022-05-06 02:20:52...installerHook: Info: custom/install/install_hooks.php not present, no custom hooks to execute
+2022-05-06 02:20:53...installerHook: Info: custom/install/install_hooks.php not present, no custom hooks to execute
+2022-05-06 02:21:04...Begin System Check Process *************
+2022-05-06 02:21:04...XML Parsing Support Found
+2022-05-06 02:21:04...JSON Parsing Support Found
+2022-05-06 02:21:04...MBString Support Found
+2022-05-06 02:21:04...ZIP Support Found
+2022-05-06 02:21:04.../custom directory and subdirectory check passed
+2022-05-06 02:21:04...cache directory and subdirectory check passed
+2022-05-06 02:21:06.../module  directory and subdirectory check passed
+2022-05-06 02:21:06.../upload directory check passed
+2022-05-06 02:21:06.../zip check passed
+2022-05-06 02:21:06...PCRE version check passed
+2022-05-06 02:21:06...installerHook: Info: custom/install/install_hooks.php not present, no custom hooks to execute
+2022-05-06 02:21:06...php.ini location found. C:\xampp\php\php.ini
+2022-05-06 02:21:06...Outputting HTML for System check
+2022-05-06 02:21:07...No Errors were found *************
+2022-05-06 02:21:07...installerHook: Info: custom/install/install_hooks.php not present, no custom hooks to execute
+2022-05-06 02:21:12...installerHook: Info: custom/install/install_hooks.php not present, no custom hooks to execute
+2022-05-06 02:22:02...Begin DB Check Process *************
+2022-05-06 02:22:02...testing with mysql:mysqli
+2022-05-06 02:22:02...Basic form info is valid, continuing Process.
+2022-05-06 02:22:02...Testing user account...
+2022-05-06 02:22:02...Connection made using  host: localhost, usr: root
+2022-05-06 02:22:02...SUCCESS:: no errors detected!
+2022-05-06 02:22:02...End DB Check Process *************
+2022-05-06 02:22:03...installerHook: Info: custom/install/install_hooks.php not present, no custom hooks to execute
+2022-05-06 02:23:08...installerHook: Info: custom/install/install_hooks.php not present, no custom hooks to execute
+2022-05-06 02:28:57...installerHook: Info: custom/install/install_hooks.php not present, no custom hooks to execute
+2022-05-06 04:39:07...installerHook: Info: custom/install/install_hooks.php not present, no custom hooks to execute
+2022-05-06 04:39:13...Begin System Check Process *************
+2022-05-06 04:39:13...XML Parsing Support Found
+2022-05-06 04:39:13...JSON Parsing Support Found
+2022-05-06 04:39:13...MBString Support Found
+2022-05-06 04:39:13...ZIP Support Found
+2022-05-06 04:39:13.../custom directory and subdirectory check passed
+2022-05-06 04:39:13...cache directory and subdirectory check passed
+2022-05-06 04:39:15.../module  directory and subdirectory check passed
+2022-05-06 04:39:15.../upload directory check passed
+2022-05-06 04:39:15.../zip check passed
+2022-05-06 04:39:15...PCRE version check passed
+2022-05-06 04:39:15...installerHook: Info: custom/install/install_hooks.php not present, no custom hooks to execute
+2022-05-06 04:39:15...php.ini location found. C:\xampp\php\php.ini
+2022-05-06 04:39:15...Outputting HTML for System check
+2022-05-06 04:39:15...No Errors were found *************
+2022-05-06 04:39:15...installerHook: Info: custom/install/install_hooks.php not present, no custom hooks to execute
+2022-05-06 04:39:26...installerHook: Info: custom/install/install_hooks.php not present, no custom hooks to execute
+2022-05-06 04:39:32...Begin DB Check Process *************
+2022-05-06 04:39:32...testing with mysql:mysqli
+2022-05-06 04:39:32...Basic form info is valid, continuing Process.
+2022-05-06 04:39:32...Testing user account...
+2022-05-06 04:39:32...Connection made using  host: localhost, usr: root
+2022-05-06 04:39:32...SUCCESS:: no errors detected!
+2022-05-06 04:39:32...End DB Check Process *************
+2022-05-06 04:39:32...installerHook: Info: custom/install/install_hooks.php not present, no custom hooks to execute
+2022-05-06 04:39:44...installerHook: Info: custom/install/install_hooks.php not present, no custom hooks to execute
+2022-05-06 04:39:48...Begin System Check Process *************
+2022-05-06 04:39:48...XML Parsing Support Found
+2022-05-06 04:39:48...JSON Parsing Support Found
+2022-05-06 04:39:48...MBString Support Found
+2022-05-06 04:39:48...ZIP Support Found
+2022-05-06 04:39:48.../custom directory and subdirectory check passed
+2022-05-06 04:39:48...cache directory and subdirectory check passed
+2022-05-06 04:39:51.../module  directory and subdirectory check passed
+2022-05-06 04:39:51.../upload directory check passed
+2022-05-06 04:39:51.../zip check passed
+2022-05-06 04:39:51...PCRE version check passed
+2022-05-06 04:39:51...installerHook: Info: custom/install/install_hooks.php not present, no custom hooks to execute
+2022-05-06 04:39:51...php.ini location found. C:\xampp\php\php.ini
+2022-05-06 04:39:51...Outputting HTML for System check
+2022-05-06 04:39:51...No Errors were found *************
+2022-05-06 04:39:51...installerHook: Info: custom/install/install_hooks.php not present, no custom hooks to execute
+2022-05-06 04:40:00...installerHook: Info: custom/install/install_hooks.php not present, no custom hooks to execute
+2022-05-06 04:40:04...Begin DB Check Process *************
+2022-05-06 04:40:04...testing with mysql:mysqli
+2022-05-06 04:40:04...Basic form info is valid, continuing Process.
+2022-05-06 04:40:04...Testing user account...
+2022-05-06 04:40:04...Connection made using  host: localhost, usr: root
+2022-05-06 04:40:04...SUCCESS:: no errors detected!
+2022-05-06 04:40:04...End DB Check Process *************
+2022-05-06 04:40:04...installerHook: Info: custom/install/install_hooks.php not present, no custom hooks to execute
+2022-05-06 05:17:14...installerHook: Info: custom/install/install_hooks.php not present, no custom hooks to execute
+2022-05-06 05:18:07...installerHook: Info: custom/install/install_hooks.php not present, no custom hooks to execute
+2022-05-06 05:23:32...installerHook: Info: custom/install/install_hooks.php not present, no custom hooks to execute
+2022-05-06 05:35:06...Begin System Check Process *************
+2022-05-06 05:35:06...XML Parsing Support Found
+2022-05-06 05:35:06...JSON Parsing Support Found
+2022-05-06 05:35:06...MBString Support Found
+2022-05-06 05:35:06...ZIP Support Found
+2022-05-06 05:35:06.../custom directory and subdirectory check passed
+2022-05-06 05:35:06...cache directory and subdirectory check passed
+2022-05-06 05:35:07.../module  directory and subdirectory check passed
+2022-05-06 05:35:07.../upload directory check passed
+2022-05-06 05:35:08.../zip check passed
+2022-05-06 05:35:08...PCRE version check passed
+2022-05-06 05:35:08...installerHook: Info: custom/install/install_hooks.php not present, no custom hooks to execute
+2022-05-06 05:35:08...php.ini location found. C:\xampp\php\php.ini
+2022-05-06 05:35:08...Outputting HTML for System check
+2022-05-06 05:35:08...No Errors were found *************
+2022-05-06 05:35:08...installerHook: Info: custom/install/install_hooks.php not present, no custom hooks to execute
+2022-05-06 05:37:57...installerHook: Info: custom/install/install_hooks.php not present, no custom hooks to execute
+2022-05-06 05:40:04...installerHook: Info: custom/install/install_hooks.php not present, no custom hooks to execute
+2022-05-06 05:40:06...installerHook: Info: custom/install/install_hooks.php not present, no custom hooks to execute
+2022-05-06 05:40:11...Begin DB Check Process *************
+2022-05-06 05:40:11...testing with mysql:mysqli
+2022-05-06 05:40:11...Basic form info is valid, continuing Process.
+2022-05-06 05:40:11...Testing user account...
+2022-05-06 05:40:11...Connection made using  host: localhost, usr: root
+2022-05-06 05:40:11...SUCCESS:: no errors detected!
+2022-05-06 05:40:11...End DB Check Process *************
+2022-05-06 05:40:11...installerHook: Info: custom/install/install_hooks.php not present, no custom hooks to execute
+2022-05-06 06:07:09...installerHook: Info: custom/install/install_hooks.php not present, no custom hooks to execute
+2022-05-06 06:07:13...installerHook: Info: custom/install/install_hooks.php not present, no custom hooks to execute
+2022-05-06 06:07:31...installerHook: Info: custom/install/install_hooks.php not present, no custom hooks to execute
+2022-05-06 06:07:39...installerHook: Info: custom/install/install_hooks.php not present, no custom hooks to execute
+2022-05-06 06:07:49...Begin System Check Process *************
+2022-05-06 06:07:49...XML Parsing Support Found
+2022-05-06 06:07:49...JSON Parsing Support Found
+2022-05-06 06:07:49...MBString Support Found
+2022-05-06 06:07:49...ZIP Support Found
+2022-05-06 06:07:49.../custom directory and subdirectory check passed
+2022-05-06 06:07:49...cache directory and subdirectory check passed
+2022-05-06 06:07:53.../module  directory and subdirectory check passed
+2022-05-06 06:07:53.../upload directory check passed
+2022-05-06 06:07:53.../zip check passed
+2022-05-06 06:07:53...PCRE version check passed
+2022-05-06 06:07:53...installerHook: Info: custom/install/install_hooks.php not present, no custom hooks to execute
+2022-05-06 06:07:53...php.ini location found. C:\xampp\php\php.ini
+2022-05-06 06:07:53...Outputting HTML for System check
+2022-05-06 06:07:53...No Errors were found *************
+2022-05-06 06:07:53...installerHook: Info: custom/install/install_hooks.php not present, no custom hooks to execute
+2022-05-06 06:07:56...installerHook: Info: custom/install/install_hooks.php not present, no custom hooks to execute
+2022-05-06 06:08:00...Begin DB Check Process *************
+2022-05-06 06:08:00...testing with mysql:mysqli
+2022-05-06 06:08:00...Basic form info is valid, continuing Process.
+2022-05-06 06:08:00...Testing user account...
+2022-05-06 06:08:00...Connection made using  host: localhost, usr: root
+2022-05-06 06:08:00...SUCCESS:: no errors detected!
+2022-05-06 06:08:00...End DB Check Process *************
+2022-05-06 06:08:01...installerHook: Info: custom/install/install_hooks.php not present, no custom hooks to execute
+2022-05-06 06:09:54...installerHook: Info: custom/install/install_hooks.php not present, no custom hooks to execute
+2022-05-06 06:47:12...installerHook: Info: custom/install/install_hooks.php not present, no custom hooks to execute
+2022-05-06 06:47:18...Begin System Check Process *************
+2022-05-06 06:47:18...XML Parsing Support Found
+2022-05-06 06:47:18...JSON Parsing Support Found
+2022-05-06 06:47:18...MBString Support Found
+2022-05-06 06:47:18...ZIP Support Found
+2022-05-06 06:47:18.../custom directory and subdirectory check passed
+2022-05-06 06:47:18...cache directory and subdirectory check passed
+2022-05-06 06:47:19.../module  directory and subdirectory check passed
+2022-05-06 06:47:19.../upload directory check passed
+2022-05-06 06:47:19.../zip check passed
+2022-05-06 06:47:19...PCRE version check passed
+2022-05-06 06:47:19...installerHook: Info: custom/install/install_hooks.php not present, no custom hooks to execute
+2022-05-06 06:47:19...php.ini location found. C:\xampp\php\php.ini
+2022-05-06 06:47:19...Outputting HTML for System check
+2022-05-06 06:47:19...No Errors were found *************
+2022-05-06 06:47:20...installerHook: Info: custom/install/install_hooks.php not present, no custom hooks to execute
+2022-05-06 06:48:03...installerHook: Info: custom/install/install_hooks.php not present, no custom hooks to execute
+2022-05-06 06:48:12...installerHook: Info: custom/install/install_hooks.php not present, no custom hooks to execute
+2022-05-06 06:48:14...installerHook: Info: custom/install/install_hooks.php not present, no custom hooks to execute
+2022-05-06 06:48:32...Begin DB Check Process *************
+2022-05-06 06:48:32...testing with mysql:mysqli
+2022-05-06 06:48:32...Basic form info is valid, continuing Process.
+2022-05-06 06:48:32...Testing user account...
+2022-05-06 06:48:32...Connection made using  host: localhost, usr: root
+2022-05-06 06:48:32...SUCCESS:: no errors detected!
+2022-05-06 06:48:32...End DB Check Process *************
+2022-05-06 06:48:33...installerHook: Info: custom/install/install_hooks.php not present, no custom hooks to execute
+2022-05-06 06:48:33...calling handleSugarConfig()
+2022-05-06 06:48:33...calling handleHtaccess()
+2022-05-06 06:48:33...calling handleDbCreateDatabase()
+2022-05-06 06:48:35...looping through all the Beans and create their tables
+2022-05-06 06:48:35...processing table acl_actions
+2022-05-06 06:48:35...creating table acl_actions
+2022-05-06 06:48:35...creating Relationship Meta for ACLAction
+2022-05-06 06:48:35...processing table acl_roles
+2022-05-06 06:48:35...creating table acl_roles
+2022-05-06 06:48:35...creating Relationship Meta for ACLRole
+2022-05-06 06:48:35...processing table relationships
+2022-05-06 06:48:35...creating table relationships
+2022-05-06 06:48:35...creating Relationship Meta for Relationship
+2022-05-06 06:48:35...processing table leads
+2022-05-06 06:48:37...creating table leads
+2022-05-06 06:48:37...creating Relationship Meta for Lead
+2022-05-06 06:48:37...processing table cases
+2022-05-06 06:48:37...creating table cases
+2022-05-06 06:48:37...creating Relationship Meta for Case
+2022-05-06 06:48:37...processing table bugs
+2022-05-06 06:48:37...creating table bugs
+2022-05-06 06:48:37...creating Relationship Meta for Bug
+2022-05-06 06:48:37...processing table users
+2022-05-06 06:48:37...creating table users
+2022-05-06 06:48:37...creating Relationship Meta for User
+2022-05-06 06:48:37...processing table campaign_log
+2022-05-06 06:48:37...creating table campaign_log
+2022-05-06 06:48:37...creating Relationship Meta for CampaignLog
+2022-05-06 06:48:38...processing table project
+2022-05-06 06:48:38...creating table project
+2022-05-06 06:48:38...creating Relationship Meta for Project
+2022-05-06 06:48:38...processing table project_task
+2022-05-06 06:48:38...creating table project_task
+2022-05-06 06:48:38...creating Relationship Meta for ProjectTask
+2022-05-06 06:48:38...processing table campaigns
+2022-05-06 06:48:38...creating table campaigns
+2022-05-06 06:48:38...creating Relationship Meta for Campaign
+2022-05-06 06:48:38...processing table prospect_lists
+2022-05-06 06:48:38...creating table prospect_lists
+2022-05-06 06:48:38...creating Relationship Meta for ProspectList
+2022-05-06 06:48:38...processing table prospects
+2022-05-06 06:48:38...creating table prospects
+2022-05-06 06:48:38...creating Relationship Meta for Prospect
+2022-05-06 06:48:38...processing table email_marketing
+2022-05-06 06:48:38...creating table email_marketing
+2022-05-06 06:48:38...creating Relationship Meta for EmailMarketing
+2022-05-06 06:48:39...processing table campaign_trkrs
+2022-05-06 06:48:39...creating table campaign_trkrs
+2022-05-06 06:48:39...creating Relationship Meta for CampaignTracker
+2022-05-06 06:48:39...processing table releases
+2022-05-06 06:48:39...creating table releases
+2022-05-06 06:48:39...creating Relationship Meta for Release
+2022-05-06 06:48:39...processing table emailman
+2022-05-06 06:48:39...creating table emailman
+2022-05-06 06:48:39...creating Relationship Meta for EmailMan
+2022-05-06 06:48:39...processing table schedulers
+2022-05-06 06:48:39...creating table schedulers
+2022-05-06 06:48:39...creating Relationship Meta for Scheduler
+2022-05-06 06:48:39...processing table job_queue
+2022-05-06 06:48:39...creating table job_queue
+2022-05-06 06:48:39...creating Relationship Meta for SchedulersJob
+2022-05-06 06:48:39...processing table contacts
+2022-05-06 06:48:39...creating table contacts
+2022-05-06 06:48:39...creating Relationship Meta for Contact
+2022-05-06 06:48:39...processing table accounts
+2022-05-06 06:48:39...creating table accounts
+2022-05-06 06:48:39...creating Relationship Meta for Account
+2022-05-06 06:48:39...processing table opportunities
+2022-05-06 06:48:39...creating table opportunities
+2022-05-06 06:48:39...creating Relationship Meta for Opportunity
+2022-05-06 06:48:39...processing table email_templates
+2022-05-06 06:48:40...creating table email_templates
+2022-05-06 06:48:40...creating Relationship Meta for EmailTemplate
+2022-05-06 06:48:40...processing table notes
+2022-05-06 06:48:40...creating table notes
+2022-05-06 06:48:40...creating Relationship Meta for Note
+2022-05-06 06:48:40...processing table calls
+2022-05-06 06:48:40...creating table calls
+2022-05-06 06:48:40...creating Relationship Meta for Call
+2022-05-06 06:48:40...processing table emails
+2022-05-06 06:48:40...creating table emails
+2022-05-06 06:48:40...creating Relationship Meta for Email
+2022-05-06 06:48:40...processing table meetings
+2022-05-06 06:48:40...creating table meetings
+2022-05-06 06:48:40...creating Relationship Meta for Meeting
+2022-05-06 06:48:40...processing table tasks
+2022-05-06 06:48:40...creating table tasks
+2022-05-06 06:48:40...creating Relationship Meta for Task
+2022-05-06 06:48:40...processing table users
+2022-05-06 06:48:40...processing table users
+2022-05-06 06:48:40...processing table currencies
+2022-05-06 06:48:40...creating table currencies
+2022-05-06 06:48:40...creating Relationship Meta for Currency
+2022-05-06 06:48:40...processing table tracker
+2022-05-06 06:48:40...creating table tracker
+2022-05-06 06:48:40...creating Relationship Meta for Tracker
+2022-05-06 06:48:41...processing table import_maps
+2022-05-06 06:48:41...creating table import_maps
+2022-05-06 06:48:41...creating Relationship Meta for ImportMap
+2022-05-06 06:48:41...processing table users_last_import
+2022-05-06 06:48:41...creating table users_last_import
+2022-05-06 06:48:41...creating Relationship Meta for UsersLastImport
+2022-05-06 06:48:41...processing table config
+2022-05-06 06:48:41...creating table config
+2022-05-06 06:48:41...creating Relationship Meta for Administration
+2022-05-06 06:48:41...processing table upgrade_history
+2022-05-06 06:48:41...creating table upgrade_history
+2022-05-06 06:48:41...creating Relationship Meta for UpgradeHistory
+2022-05-06 06:48:41...processing table vcals
+2022-05-06 06:48:41...creating table vcals
+2022-05-06 06:48:41...creating Relationship Meta for vCal
+2022-05-06 06:48:41...processing table alerts
+2022-05-06 06:48:41...creating table alerts
+2022-05-06 06:48:41...creating Relationship Meta for Alert
+2022-05-06 06:48:41...processing table roles
+2022-05-06 06:48:41...creating table roles
+2022-05-06 06:48:41...creating Relationship Meta for Role
+2022-05-06 06:48:41...processing table documents
+2022-05-06 06:48:41...creating table documents
+2022-05-06 06:48:41...creating Relationship Meta for Document
+2022-05-06 06:48:41...processing table document_revisions
+2022-05-06 06:48:41...creating table document_revisions
+2022-05-06 06:48:41...creating Relationship Meta for DocumentRevision
+2022-05-06 06:48:41...processing table fields_meta_data
+2022-05-06 06:48:41...creating table fields_meta_data
+2022-05-06 06:48:41...creating Relationship Meta for FieldsMetaData
+2022-05-06 06:48:41...processing table 
+2022-05-06 06:48:41...processing table inbound_email
+2022-05-06 06:48:41...creating table inbound_email
+2022-05-06 06:48:41...creating Relationship Meta for InboundEmail
+2022-05-06 06:48:42...processing table saved_search
+2022-05-06 06:48:42...creating table saved_search
+2022-05-06 06:48:42...creating Relationship Meta for SavedSearch
+2022-05-06 06:48:42...processing table user_preferences
+2022-05-06 06:48:42...creating table user_preferences
+2022-05-06 06:48:42...creating Relationship Meta for UserPreference
+2022-05-06 06:48:42...processing table 
+2022-05-06 06:48:42...processing table email_addresses
+2022-05-06 06:48:42...creating table email_addresses
+2022-05-06 06:48:42...creating Relationship Meta for EmailAddress
+2022-05-06 06:48:42...processing table emails_text
+2022-05-06 06:48:42...creating table emails_text
+2022-05-06 06:48:42...creating Relationship Meta for EmailText
+2022-05-06 06:48:42...processing table spots
+2022-05-06 06:48:42...creating table spots
+2022-05-06 06:48:42...creating Relationship Meta for Spots
+2022-05-06 06:48:42...processing table aobh_businesshours
+2022-05-06 06:48:42...creating table aobh_businesshours
+2022-05-06 06:48:42...creating Relationship Meta for AOBH_BusinessHours
+2022-05-06 06:48:42...processing table sugarfeed
+2022-05-06 06:48:42...creating table sugarfeed
+2022-05-06 06:48:42...creating Relationship Meta for SugarFeed
+2022-05-06 06:48:42...processing table eapm
+2022-05-06 06:48:42...creating table eapm
+2022-05-06 06:48:42...creating Relationship Meta for EAPM
+2022-05-06 06:48:42...processing table oauth_consumer
+2022-05-06 06:48:42...creating table oauth_consumer
+2022-05-06 06:48:42...creating Relationship Meta for OAuthKey
+2022-05-06 06:48:42...processing table oauth_tokens
+2022-05-06 06:48:42...creating table oauth_tokens
+2022-05-06 06:48:42...creating Relationship Meta for OAuthToken
+2022-05-06 06:48:42...processing table am_projecttemplates
+2022-05-06 06:48:43...creating table am_projecttemplates
+2022-05-06 06:48:43...creating Relationship Meta for AM_ProjectTemplates
+2022-05-06 06:48:43...processing table am_tasktemplates
+2022-05-06 06:48:43...creating table am_tasktemplates
+2022-05-06 06:48:43...creating Relationship Meta for AM_TaskTemplates
+2022-05-06 06:48:43...processing table favorites
+2022-05-06 06:48:43...creating table favorites
+2022-05-06 06:48:43...creating Relationship Meta for Favorites
+2022-05-06 06:48:43...processing table aok_knowledge_base_categories
+2022-05-06 06:48:43...creating table aok_knowledge_base_categories
+2022-05-06 06:48:43...creating Relationship Meta for AOK_Knowledge_Base_Categories
+2022-05-06 06:48:43...processing table aok_knowledgebase
+2022-05-06 06:48:43...creating table aok_knowledgebase
+2022-05-06 06:48:43...creating Relationship Meta for AOK_KnowledgeBase
+2022-05-06 06:48:43...processing table reminders
+2022-05-06 06:48:43...creating table reminders
+2022-05-06 06:48:43...creating Relationship Meta for Reminder
+2022-05-06 06:48:43...processing table reminders_invitees
+2022-05-06 06:48:43...creating table reminders_invitees
+2022-05-06 06:48:43...creating Relationship Meta for Reminder_Invitee
+2022-05-06 06:48:43...processing table fp_events
+2022-05-06 06:48:43...creating table fp_events
+2022-05-06 06:48:43...creating Relationship Meta for FP_events
+2022-05-06 06:48:44...processing table fp_event_locations
+2022-05-06 06:48:44...creating table fp_event_locations
+2022-05-06 06:48:44...creating Relationship Meta for FP_Event_Locations
+2022-05-06 06:48:44...processing table aod_indexevent
+2022-05-06 06:48:44...creating table aod_indexevent
+2022-05-06 06:48:44...creating Relationship Meta for AOD_IndexEvent
+2022-05-06 06:48:44...processing table aod_index
+2022-05-06 06:48:44...creating table aod_index
+2022-05-06 06:48:44...creating Relationship Meta for AOD_Index
+2022-05-06 06:48:44...processing table aop_case_events
+2022-05-06 06:48:44...creating table aop_case_events
+2022-05-06 06:48:44...creating Relationship Meta for AOP_Case_Events
+2022-05-06 06:48:44...processing table aop_case_updates
+2022-05-06 06:48:45...creating table aop_case_updates
+2022-05-06 06:48:45...creating Relationship Meta for AOP_Case_Updates
+2022-05-06 06:48:45...processing table aor_reports
+2022-05-06 06:48:45...creating table aor_reports
+2022-05-06 06:48:45...creating Relationship Meta for AOR_Report
+2022-05-06 06:48:45...processing table aor_fields
+2022-05-06 06:48:45...creating table aor_fields
+2022-05-06 06:48:45...creating Relationship Meta for AOR_Field
+2022-05-06 06:48:45...processing table aor_charts
+2022-05-06 06:48:45...creating table aor_charts
+2022-05-06 06:48:45...creating Relationship Meta for AOR_Chart
+2022-05-06 06:48:45...processing table aor_conditions
+2022-05-06 06:48:45...creating table aor_conditions
+2022-05-06 06:48:45...creating Relationship Meta for AOR_Condition
+2022-05-06 06:48:45...processing table aor_scheduled_reports
+2022-05-06 06:48:45...creating table aor_scheduled_reports
+2022-05-06 06:48:45...creating Relationship Meta for AOR_Scheduled_Reports
+2022-05-06 06:48:45...processing table aos_contracts
+2022-05-06 06:48:45...creating table aos_contracts
+2022-05-06 06:48:45...creating Relationship Meta for AOS_Contracts
+2022-05-06 06:48:46...processing table aos_invoices
+2022-05-06 06:48:46...creating table aos_invoices
+2022-05-06 06:48:46...creating Relationship Meta for AOS_Invoices
+2022-05-06 06:48:46...processing table aos_pdf_templates
+2022-05-06 06:48:46...creating table aos_pdf_templates
+2022-05-06 06:48:46...creating Relationship Meta for AOS_PDF_Templates
+2022-05-06 06:48:46...processing table aos_product_categories
+2022-05-06 06:48:46...creating table aos_product_categories
+2022-05-06 06:48:46...creating Relationship Meta for AOS_Product_Categories
+2022-05-06 06:48:46...processing table aos_products
+2022-05-06 06:48:46...creating table aos_products
+2022-05-06 06:48:46...creating Relationship Meta for AOS_Products
+2022-05-06 06:48:46...processing table aos_products_quotes
+2022-05-06 06:48:46...creating table aos_products_quotes
+2022-05-06 06:48:46...creating Relationship Meta for AOS_Products_Quotes
+2022-05-06 06:48:46...processing table aos_line_item_groups
+2022-05-06 06:48:46...creating table aos_line_item_groups
+2022-05-06 06:48:46...creating Relationship Meta for AOS_Line_Item_Groups
+2022-05-06 06:48:46...processing table aos_quotes
+2022-05-06 06:48:47...creating table aos_quotes
+2022-05-06 06:48:47...creating Relationship Meta for AOS_Quotes
+2022-05-06 06:48:47...processing table aow_actions
+2022-05-06 06:48:47...creating table aow_actions
+2022-05-06 06:48:47...creating Relationship Meta for AOW_Action
+2022-05-06 06:48:47...processing table aow_workflow
+2022-05-06 06:48:47...creating table aow_workflow
+2022-05-06 06:48:47...creating Relationship Meta for AOW_WorkFlow
+2022-05-06 06:48:47...processing table aow_processed
+2022-05-06 06:48:47...creating table aow_processed
+2022-05-06 06:48:47...creating Relationship Meta for AOW_Processed
+2022-05-06 06:48:47...processing table aow_conditions
+2022-05-06 06:48:47...creating table aow_conditions
+2022-05-06 06:48:47...creating Relationship Meta for AOW_Condition
+2022-05-06 06:48:47...processing table jjwg_maps
+2022-05-06 06:48:47...creating table jjwg_maps
+2022-05-06 06:48:47...creating Relationship Meta for jjwg_Maps
+2022-05-06 06:48:47...processing table jjwg_markers
+2022-05-06 06:48:47...creating table jjwg_markers
+2022-05-06 06:48:47...creating Relationship Meta for jjwg_Markers
+2022-05-06 06:48:48...processing table jjwg_areas
+2022-05-06 06:48:48...creating table jjwg_areas
+2022-05-06 06:48:48...creating Relationship Meta for jjwg_Areas
+2022-05-06 06:48:48...processing table jjwg_address_cache
+2022-05-06 06:48:48...creating table jjwg_address_cache
+2022-05-06 06:48:48...creating Relationship Meta for jjwg_Address_Cache
+2022-05-06 06:48:48...processing table calls_reschedule
+2022-05-06 06:48:48...creating table calls_reschedule
+2022-05-06 06:48:48...creating Relationship Meta for Calls_Reschedule
+2022-05-06 06:48:48...processing table securitygroups
+2022-05-06 06:48:48...creating table securitygroups
+2022-05-06 06:48:48...creating Relationship Meta for SecurityGroup
+2022-05-06 06:48:48...processing table outbound_email
+2022-05-06 06:48:48...creating table outbound_email
+2022-05-06 06:48:48...creating Relationship Meta for OutboundEmailAccounts
+2022-05-06 06:48:48...processing table templatesectionline
+2022-05-06 06:48:48...creating table templatesectionline
+2022-05-06 06:48:48...creating Relationship Meta for TemplateSectionLine
+2022-05-06 06:48:49...processing table oauth2tokens
+2022-05-06 06:48:49...creating table oauth2tokens
+2022-05-06 06:48:49...creating Relationship Meta for OAuth2Tokens
+2022-05-06 06:48:49...processing table oauth2clients
+2022-05-06 06:48:49...creating table oauth2clients
+2022-05-06 06:48:49...creating Relationship Meta for OAuth2Clients
+2022-05-06 06:48:49...processing table surveyresponses
+2022-05-06 06:48:49...creating table surveyresponses
+2022-05-06 06:48:49...creating Relationship Meta for SurveyResponses
+2022-05-06 06:48:49...processing table surveys
+2022-05-06 06:48:49...creating table surveys
+2022-05-06 06:48:49...creating Relationship Meta for Surveys
+2022-05-06 06:48:49...processing table surveyquestionresponses
+2022-05-06 06:48:49...creating table surveyquestionresponses
+2022-05-06 06:48:49...creating Relationship Meta for SurveyQuestionResponses
+2022-05-06 06:48:49...processing table surveyquestions
+2022-05-06 06:48:49...creating table surveyquestions
+2022-05-06 06:48:49...creating Relationship Meta for SurveyQuestions
+2022-05-06 06:48:49...processing table surveyquestionoptions
+2022-05-06 06:48:50...creating table surveyquestionoptions
+2022-05-06 06:48:50...creating Relationship Meta for SurveyQuestionOptions
+2022-05-06 06:48:52...Begin creating Defaults
+2022-05-06 06:48:52...insert defaults into config table
+2022-05-06 06:48:52...Creating default users
+2022-05-06 06:48:52...Creating default scheduler jobs
+2022-05-06 06:48:52...Enable SugarFeeds
+2022-05-06 06:48:52...Installation has completed *********
+2022-05-06 06:49:00...populating the db with seed data
+2022-05-06 06:49:00...Save configuration settings..
+2022-05-06 06:49:00...save locale
+2022-05-06 06:49:00...new Administration
+2022-05-06 06:49:00...retrieveSettings
+2022-05-06 06:49:00...AdminWizard OFF
+2022-05-06 06:49:00...saveConfig
+2022-05-06 06:49:00...new Configurator
+2022-05-06 06:49:00...populateFromPost
+2022-05-06 06:49:00...handleOverride
+2022-05-06 06:49:00...addCronAllowedUser
+2022-05-06 06:49:00...saveConfig
+2022-05-06 06:49:00...new Currency
+2022-05-06 06:49:00...retrieve
+2022-05-06 06:49:00...DBG: save currency
+2022-05-06 06:49:00...Save user settings..
+2022-05-06 06:49:00...DBG: SugarThemeRegistry::getDefault
+2022-05-06 06:49:03...installerHook: Info: custom/install/install_hooks.php not present, no custom hooks to execute
